@@ -1,6 +1,5 @@
 # user-library-spring-boot-postgre-docker
-In order to launch the application:
-1) pack the app in .jar - `mvn clean package`
-2) use docker for launch  - `docker-compose up` 
+In order to launch the application docker can be used in root package:
+ `docker-compose up` 
 
-Use the app on `localhost:8081`
+The app will deploy in `localhost:8081`
